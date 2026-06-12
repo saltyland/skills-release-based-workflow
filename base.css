@@ -106,7 +106,8 @@ section {
   display: block;
 }
 body {
-    
+    background-color: black;
+}
 }
 ol,
 ul {
